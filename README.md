@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository and for fun purpose.
+This is my first repository and for fun purposes.
